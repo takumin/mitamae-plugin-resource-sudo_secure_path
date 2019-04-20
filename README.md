@@ -1,0 +1,1 @@
+# mitamae-plugin-resource-sudo_secure_path
